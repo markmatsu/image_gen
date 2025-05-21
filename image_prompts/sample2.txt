@@ -1,0 +1,6 @@
+
+Split‑screen illustration: left side shows a visitor asking a question (‘What’s this painting?’) into a headset; right side shows an AI waveform traveling through LiveKit nodes to return an instant speech bubble answer (‘It’s by Monet, 1875’).
+Futuristic infographic vibe, cyan‑purple accent colors, light grid background, Landscape 1536x1024.
+
+n=2
+size=1536x1024

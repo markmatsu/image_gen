@@ -1,0 +1,31 @@
+# Ignore all files in images/ but keep the folder
+images/*
+!images/.gitkeep
+
+# Python virtual environment
+venv/
+__pycache__/
+*.py[cod]
+
+# VSCode workspace settings
+*.code-workspace
+.vscode/
+
+# Local environment files (dotenv)
+.env
+.env.*.local
+.env.local
+
+# macOS system files
+.DS_Store
+
+# Security keys or certs
+*.pem
+*.key
+*.crt
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
