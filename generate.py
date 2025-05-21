@@ -21,7 +21,7 @@ Return a structured JSON object with the following fields: prompt, n, and size.
 
 def parse_text_to_prompt(text: str) -> ImagePrompt:
     completion = client.beta.chat.completions.parse(
-        model="gpt-4o-2024-08-06",
+        model="o4-mini",
         messages=[
             {"role": "system", "content": SYSTEM_MESSAGE},
             {"role": "user", "content": text.strip()}
